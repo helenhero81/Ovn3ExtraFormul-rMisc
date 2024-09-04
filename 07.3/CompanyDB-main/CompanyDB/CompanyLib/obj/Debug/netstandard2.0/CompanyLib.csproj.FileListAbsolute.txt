@@ -1,0 +1,9 @@
+K:\UNI\uni\S5\Programming\CompanyDB\CompanyDB\CompanyLib\bin\Debug\netstandard2.0\CompanyLib.deps.json
+K:\UNI\uni\S5\Programming\CompanyDB\CompanyDB\CompanyLib\bin\Debug\netstandard2.0\CompanyLib.dll
+K:\UNI\uni\S5\Programming\CompanyDB\CompanyDB\CompanyLib\bin\Debug\netstandard2.0\CompanyLib.pdb
+K:\UNI\uni\S5\Programming\CompanyDB\CompanyDB\CompanyLib\obj\Debug\netstandard2.0\CompanyLib.csprojAssemblyReference.cache
+K:\UNI\uni\S5\Programming\CompanyDB\CompanyDB\CompanyLib\obj\Debug\netstandard2.0\CompanyLib.AssemblyInfoInputs.cache
+K:\UNI\uni\S5\Programming\CompanyDB\CompanyDB\CompanyLib\obj\Debug\netstandard2.0\CompanyLib.AssemblyInfo.cs
+K:\UNI\uni\S5\Programming\CompanyDB\CompanyDB\CompanyLib\obj\Debug\netstandard2.0\CompanyLib.csproj.CoreCompileInputs.cache
+K:\UNI\uni\S5\Programming\CompanyDB\CompanyDB\CompanyLib\obj\Debug\netstandard2.0\CompanyLib.dll
+K:\UNI\uni\S5\Programming\CompanyDB\CompanyDB\CompanyLib\obj\Debug\netstandard2.0\CompanyLib.pdb

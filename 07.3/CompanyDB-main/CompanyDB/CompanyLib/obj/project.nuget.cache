@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3EvpX6vps+CQZqG/4ecWvC5eTb63TkPlYLjORNSJfN+XqCu/NwpVACsREQa0W3yxo9D5Daa9a+o6WqiMKTHEaA==",
+  "success": true,
+  "projectFilePath": "C:\\xampp\\htdocs\\programutveckling\\Ovn\\07.3\\CompanyDB-main\\CompanyDB\\CompanyLib\\CompanyLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\darin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\darin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
