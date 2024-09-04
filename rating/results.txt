@@ -1,0 +1,47 @@
+2024-08-28 08:38:29||scared
+Date: 2024-08-28 08:43:49, Gender: , Rating: scared
+||scared
+Date: 2024-08-28 08:43:53, Gender: , Rating: scared
+||scared
+Date: 2024-08-28 08:44:13, Gender: , Rating: scared
+||scared
+Date: 2024-08-28 08:44:32, Gender: , Rating: sad
+||sad
+Date: 2024-08-28 08:46:38, Gender: , Rating: happy
+||happy
+Date: 2024-08-28 08:49:04, Gender: , Rating: sad
+||sad
+Date: 2024-08-28 08:58:49, Gender: , Rating: sad
+||sad
+Date: 2024-08-28 08:58:56, Gender: , Rating: happy
+||happy
+Date: 2024-08-28 09:02:25, Gender: , Rating: sad
+||sad
+Date: 2024-08-28 09:30:41, Gender: , Rating: surprised
+||surprised
+Date: 2024-08-28 09:39:02, Gender: Man, Rating: Excellent
+Date: 2024-08-28 09:39:13, Gender: Man, Rating: Very Bad
+Date: 2024-08-28 09:39:16, Gender: Kvinna, Rating: Good
+Date: 2024-08-28 09:40:25, Gender: Man, Rating: Excellent
+Date: 2024-08-28 09:41:01, Gender: Kvinna, Rating: Very Bad
+Date: 2024-08-28 09:53:48, Gender: Man, Rating: Excellent
+Date: 2024-08-28 09:58:22, Gender: Man, Rating: Excellent
+Date: 2024-08-29 08:24:16, Gender: Man, Rating: Great
+Date: 2024-08-29 08:28:09, Gender: Man, Rating: Great
+Date: 2024-08-29 08:29:23, Gender: Man, Rating: Great
+Date: 2024-08-29 08:29:46, Gender: Man, Rating: Great
+Date: 2024-08-29 08:39:54, Gender: Man, Rating: Good
+Date: 2024-08-29 09:10:48, Gender: Kvinna, Rating: Excellent
+Date: 2024-08-29 11:43:18, Gender: Man, Rating: Excellent
+Date: 2024-08-29 11:46:53, Gender: Man, Rating: Great
+Date: 2024-08-29 11:55:35, Gender: Man, Rating: Great
+Date: 2024-08-29 12:15:48, Gender: Man, Rating: Great
+Date: 2024-08-30 07:42:26, Gender: Man, Rating: Good
+Date: 2024-08-30 07:46:17, Gender: Man, Rating: Great
+Date: 2024-08-30 08:21:15, Gender: Man, Rating: Great
+Date: 2024-08-30 08:21:44, Gender: Man, Rating: Good
+Date: 2024-08-30 08:21:46, Gender: Kvinna, Rating: Okay
+Date: 2024-08-30 08:21:50, Gender: Man, Rating: Excellent
+Date: 2024-08-30 08:21:53, Gender: Kvinna, Rating: Excellent
+Date: 2024-09-02 20:09:07, Gender: Man, Rating: Excellent
+Date: 2024-09-03 09:40:22, Gender: Man, Rating: Very Bad
